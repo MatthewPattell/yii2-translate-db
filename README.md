@@ -1,6 +1,6 @@
 Translate DB Yii2
 ===========================
-Translate DB tables and columns for Yii2
+Very simple extension for translation DB tables and columns
 
 Installation
 ------------
